@@ -1,14 +1,14 @@
 class Robot
 
-  def optimal_height(my_arm_length)
+  def optimal_height(arm_length)
     # code here
   end
 
-  def temperature(my_temperature)
+  def temperature(temp)
     # code here
   end
 
-  def optimal_weight(my_weight, my_name)
+  def optimal_weight(weight, name)
     # code here
   end
 
