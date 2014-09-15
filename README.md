@@ -10,8 +10,8 @@ resources: 1
 
 * Make a class called `Robot`. Every new instance of the Robot class should be able to take a temperature reading and return a mood, 
 
-#### The Arm Length method
-A robots optimal height is your estimated arm_length multiplied by 50 and divided by 7.
+#### The Optimal Height method
+A robot's optimal height is your estimated arm_length multiplied by 50 and divided by 7.
 
 #### The Temperature method
 * Happy
