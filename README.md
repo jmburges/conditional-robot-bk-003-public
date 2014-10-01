@@ -6,9 +6,13 @@ resources: 1
 
 # Conditional Robot
 
+## First Important Step
+
+Run  `gem install timecop` from your terminal before getting started. Otherwise the spec will throw an error.
+
 ## Objectives
 
-* Make a class called `Robot`. Every new instance of the Robot class should be able to take a temperature reading and return a mood, 
+* Make a class called `Robot`. Every new instance of the Robot class should be able to take a temperature reading and return a mood.
 
 #### The Optimal Height method
 A robot's optimal height is your estimated arm_length multiplied by 50 and divided by 7.
