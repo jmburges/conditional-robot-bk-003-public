@@ -81,7 +81,7 @@ describe Robot do
     end
   end
 
-  describe "#optimal_weight" do
+  describe "#optimal_height" do
     it "multiplies the given argument by 50 and then divides by 7" do
       expect(robot.optimal_height(43)).to eq(307.14285714285717)
     end
