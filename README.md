@@ -1,5 +1,5 @@
 ---
-tags: oo, conditionals
+tags: oo, conditionals, introductory
 language: ruby
 resources: 1
 ---
