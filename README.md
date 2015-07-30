@@ -1,8 +1,4 @@
----
-tags: oo, conditionals, introductory
-language: ruby
-resources: 1
----
+
 
 # Conditional Robot
 
